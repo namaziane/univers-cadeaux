@@ -1,0 +1,213 @@
+# Translation of Plugins - Link Juice Optimizer - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Link Juice Optimizer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-04 14:06:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Link Juice Optimizer - Stable (latest release)\n"
+
+#. Plugin Name of the plugin
+msgid "Link Juice Optimizer"
+msgstr "Link Juice Optimizer"
+
+#: admin/class-link-juice-optimizer-admin.php:305
+msgid "Ajustes"
+msgstr "Réglages"
+
+#: admin/class-link-juice-optimizer-admin.php:186
+msgid "Ofuscar enlaces en este widget"
+msgstr "Obfusquer les liens dans ce widget"
+
+#: admin/class-link-juice-optimizer-admin.php:164
+msgid "Ofuscar el enlace a este producto"
+msgstr "Obfusquer le lien vers ce produit"
+
+#: admin/class-link-juice-optimizer-admin.php:160
+msgid "Enlace de producto"
+msgstr "Lien de produit"
+
+#: admin/class-link-juice-optimizer-admin.php:155
+#: admin/class-link-juice-optimizer-admin.php:168
+msgid "No"
+msgstr "Non"
+
+#: admin/class-link-juice-optimizer-admin.php:154
+#: admin/class-link-juice-optimizer-admin.php:167
+msgid "Sí"
+msgstr "Oui"
+
+#: admin/class-link-juice-optimizer-admin.php:153
+#: admin/class-link-juice-optimizer-admin.php:166
+msgid "Predeterminado"
+msgstr "Par défaut"
+
+#: admin/class-link-juice-optimizer-admin.php:151
+msgid "Ofuscar el enlace a esta categoría"
+msgstr "Obfusquer le lien dans cette catégorie"
+
+#: admin/class-link-juice-optimizer-admin.php:148
+msgid "Propiedades de categoría"
+msgstr "Propriétés de catégorie"
+
+#: admin/class-link-juice-optimizer-admin.php:144
+#: admin/class-link-juice-optimizer-admin.php:222
+msgid "Ofuscar este enlace"
+msgstr "Obfusquer ce lien"
+
+#: admin/class-link-juice-optimizer-admin.php:142
+msgid "Ajustes de menú"
+msgstr "Réglages de menu"
+
+#: admin/class-link-juice-optimizer-admin.php:137
+msgid "Si marcas esta casilla todos los enlaces (botones) para añadir un producto al carrito serán ofuscados (ajuste global)."
+msgstr "Si vous cochez cette case, tous les liens (boutons) permettant d’ajouter un produit au panier seront obfusqués (réglage global)."
+
+#: admin/class-link-juice-optimizer-admin.php:136
+msgid "Ofuscar enlaces (botones) \"Añadir al carrito\""
+msgstr "Obfusquer les liens (boutons) « Ajouter au panier »"
+
+#: admin/class-link-juice-optimizer-admin.php:135
+msgid "Si marcas esta casilla todos los enlaces de productos serán ofuscados de manera predeterminada (solo funciona en el loop)."
+msgstr "Si vous cochez cette case, tous les liens vers les produits seront obfusqués par défaut (fonctionne uniquement dans la « loop »)."
+
+#: admin/class-link-juice-optimizer-admin.php:134
+msgid "Ofuscar enlaces de productos"
+msgstr "Obfusquer les liens de produits"
+
+#: admin/class-link-juice-optimizer-admin.php:133
+msgid "Si marcas esta casilla todos los enlaces de categorías serán ofuscados de manera predeterminada (solo funciona en el loop)."
+msgstr "Si vous cochez cette case, tous les liens des catégories seront obfusqués par défaut (fonctionne uniquement dans la « loop »)."
+
+#: admin/class-link-juice-optimizer-admin.php:132
+msgid "Ofuscar enlaces de categorías"
+msgstr "Obfusquer les liens de catégories"
+
+#: admin/class-link-juice-optimizer-admin.php:119
+msgid "¡Cuidado! No es necesario que modifiques este valor, deja el valor por defecto "
+msgstr "Attention ! Il n’est pas nécessaire de modifier cette valeur. Laissez la valeur par défaut."
+
+#: admin/class-link-juice-optimizer-admin.php:117
+msgid "Prioridad de carga del hook"
+msgstr "Priorité de chargement du crochet"
+
+#: admin/class-link-juice-optimizer-admin.php:116
+msgid ""
+"a.ljoptimizer,\n"
+"span.ljoptimizer {\n"
+"\tcursor: pointer; /* añade el cursor que simula un enlace */\n"
+"}"
+msgstr ""
+"a.ljoptimizer,\n"
+"span.ljoptimizer {\n"
+"\tcursor: pointer; /* ajoute le curseur qui simule un lien */\n"
+"}"
+
+#: admin/class-link-juice-optimizer-admin.php:114
+msgid "Código CSS"
+msgstr "Code CSS"
+
+#: admin/class-link-juice-optimizer-admin.php:113
+msgid ""
+"#mi-id\n"
+".mi-clase\n"
+"https://dominio.com/destino/\n"
+"https://dominio.com/directorio/*\n"
+"https://dominio.com/palabra*\n"
+"?parametro"
+msgstr ""
+"#mon-id\n"
+".ma-class\n"
+"https://example.com/slug/\n"
+"https://example.com/dossier/*\n"
+"https://example.com/mot*\n"
+"?parametre"
+
+#: admin/class-link-juice-optimizer-admin.php:112
+msgid "Incluye los casos que quieras ofuscar:<br><ul><li>ID o clases CSS de enlaces o de sus elementos padre como &lt;div&gt;, &lt;p&gt;, &lt;ul&gt; (#mi-id, .mi-clase,...)</li><li>URL de destino individuales (https://dominio.com/destino/)</li><li>Todos los enlaces pertenecientes a un directorio determinado mediante un <strong>*</strong> (https://dominio.com/directorio/<strong>*</strong>)</li><li>Todos los enlaces de destino que coincidan con una raíz, también mediante <strong>*</strong> (https://dominio.com/palabra<strong>*</strong>)</li><li>Parámetros incluidos en URL (?parametro)</li></ul>Inserta un elemento por línea."
+msgstr ""
+"Ajoutez les éléments que vous souhaitez obfusquer :<br>\n"
+"<ul>\n"
+"<li>Id ou Class des éléments parents comme « #mon-id », « .ma-class », etc.</li>\n"
+"<li>URLs individuelles : https://example.com<strong>/slug/</strong></li>\n"
+"<li>URLs appartenant à un dossier particulier : https://example.com/dossier/<strong>*</strong></li>\n"
+"<li>URLs ayant une racine commune : https://example.com<strong>/racine*</strong></li>\n"
+"<li>URLs ayant contenant des paramètres : <strong>?parametre</strong></li>\n"
+"</ul>\n"
+"Insérez un élément par ligne."
+
+#: admin/class-link-juice-optimizer-admin.php:110
+msgid "Elementos extra"
+msgstr "Autres éléments à obfusquer"
+
+#: admin/class-link-juice-optimizer-admin.php:108
+msgid "Ofuscado en base64"
+msgstr "Obfusquer en base64"
+
+#: admin/class-link-juice-optimizer-admin.php:107
+msgid "Con atributo onclick visible"
+msgstr "Avec attribut onclick visible"
+
+#: admin/class-link-juice-optimizer-admin.php:106
+msgid "Enlace normal (<a>) sin atributo href"
+msgstr "Lien normal (<a>) sans attribut href"
+
+#: admin/class-link-juice-optimizer-admin.php:105
+msgid "Añadir atributo rel=\"nofollow\""
+msgstr "Ajouter l’attribut rel=\"nofollow\""
+
+#: admin/class-link-juice-optimizer-admin.php:103
+msgid "Tipo de enlace generado"
+msgstr "Type de lien généré"
+
+#: admin/class-link-juice-optimizer-admin.php:102
+msgid "¡Cuidado! Los enlaces que utilizan esta clase dejarán de ofuscarse si la modificas (aunque puedes reemplazar en la base de datos)"
+msgstr "Attention ! Les liens utilisant cette classe ne seront plus obfusqués si vous la modifiez (bien que vous puissiez la remplacer dans la base de données)."
+
+#: admin/class-link-juice-optimizer-admin.php:99
+msgid "Clase CSS personalizada que utilizará el plugin"
+msgstr "Classe CSS personnalisée que l’extension utilisera"
+
+#: admin/class-link-juice-optimizer-admin.php:98
+#: admin/class-link-juice-optimizer-admin.php:131
+msgid "Recuerda que es recomendable añadir esta línea al archivo robots.txt"
+msgstr "N’oubliez pas qu’il est conseillé d’ajouter cette ligne au fichier robots.txt"
+
+#: admin/class-link-juice-optimizer-admin.php:96
+#: admin/class-link-juice-optimizer-admin.php:129
+msgid "Invítame a unas cervezas"
+msgstr "Offrez moi une bière"
+
+#: admin/class-link-juice-optimizer-admin.php:96
+#: admin/class-link-juice-optimizer-admin.php:129
+msgid "Las ideas para desarrollar herramientas gratuitas como este plugin se me ocurren cuando estoy disfrutando de una buena cerveza... Ahí lo dejo ;)"
+msgstr "Les idées pour développer des outils gratuits comme cette extension me viennent lorsque je déguste une bonne bière… Je vous laisse décider ;)"
+
+#: admin/class-link-juice-optimizer-admin.php:96
+#: admin/class-link-juice-optimizer-admin.php:129
+msgid "Apoya mi trabajo"
+msgstr "Soutenir mon travail"
+
+#: admin/class-link-juice-optimizer-admin.php:94
+msgid "Ajustes generales"
+msgstr "Réglages généraux"
+
+#. Author URI of the plugin
+msgid "https://www.fedegomez.es/"
+msgstr "https://www.fedegomez.es/"
+
+#. Author of the plugin
+msgid "Fede Gómez"
+msgstr "Fede Gómez"
+
+#. Description of the plugin
+msgid "Sustituye los enlaces por una etiqueta &lt;span&gt; clicable, añade el atributo nofollow o elimina el atributo href para optimizar el link juice."
+msgstr "Remplacez les liens par une balise <span> cliquable, ajoutez l’attribut nofollow ou supprimez l’attribut href pour optimiser la diffusion du pagerank."
+
+#. Plugin URI of the plugin
+msgid "https://www.fedegomez.es/link-juice-optimizer-plugin-optimizar-crawl-budget/"
+msgstr "https://www.fedegomez.es/link-juice-optimizer-plugin-optimizar-crawl-budget/"

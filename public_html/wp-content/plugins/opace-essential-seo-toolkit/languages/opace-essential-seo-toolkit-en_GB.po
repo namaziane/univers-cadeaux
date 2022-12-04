@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opace essential seo toolkit 1.0\n"
+"POT-Creation-Date: 2020-02-25 16:12-0600\n"
+"PO-Revision-Date: 2020-02-25 16:13-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: opace-essential-seo-toolkit.php\n"
+"X-Poedit-SearchPath-1: includes/class-settings-page.php\n"
+
+#: includes/class-settings-page.php:36
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/class-settings-page.php:251
+msgid "Opace Essential SEO Toolkit - Settings"
+msgstr "Opace Essential SEO Toolkit - Settings"
+
+#: includes/class-settings-page.php:251 includes/class-settings-page.php:277
+#: opace-essential-seo-toolkit.php:200
+msgid "Opace Essential SEO Toolkit"
+msgstr "Opace Essential SEO Toolkit"
+
+#: includes/class-settings-page.php:357
+msgid ""
+"Select which post types you would like to enable Essential SEO Toolkit on."
+msgstr ""
+"Select which post types you would like to enable Essential SEO Toolkit on."
+
+#: includes/class-settings-page.php:360
+msgid ""
+"Here you can create new sources add your own additional SEO tools to the "
+"plugin. In the makeup of the URL, you can use three tags, which will be "
+"replaced by the current pages URL markup:"
+msgstr ""
+"Here you can create new sources add your own additional SEO tools to the "
+"plugin. In the makeup of the URL, you can use three tags, which will be "
+"replaced by the current pages URL markup:"
+
+#: includes/class-settings-page.php:363
+msgid ""
+"The scheme identifies the protocol to be used to access the resource on the "
+"Internet. It can be HTTP (without SSL) or HTTPS (with SSL)."
+msgstr ""
+"The scheme identifies the protocol to be used to access the resource on the "
+"Internet. It can be HTTP (without SSL) or HTTPS (with SSL)."
+
+#: includes/class-settings-page.php:364
+msgid ""
+"The host name identifies the host that holds the resource. For example, www."
+"yoursite.com."
+msgstr ""
+"The host name identifies the host that holds the resource. For example, www."
+"yoursite.com."
+
+#: includes/class-settings-page.php:365
+msgid ""
+"The path identifies the specific resource in the host that the web client "
+"wants to access. For example, /tags/news/"
+msgstr ""
+"The path identifies the specific resource in the host that the web client "
+"wants to access. For example, /tags/news/"
+
+#: includes/class-settings-page.php:370
+msgid "Here you can create new categories or remove exisiting ones."
+msgstr "Here you can create new categories or remove exisiting ones."
+
+#: includes/class-settings-page.php:384
+msgid "Post Types"
+msgstr "Post Types"
+
+#: includes/class-settings-page.php:392
+msgid "Categories"
+msgstr "Categories"
+
+#: includes/class-settings-page.php:400
+msgid "Sources"
+msgstr "Sources"
+
+#: includes/class-settings-page.php:483
+msgid "Remove Category"
+msgstr "Remove Category"
+
+#: includes/class-settings-page.php:488
+msgid "Add New Category"
+msgstr "Add New Category"
+
+#: includes/class-settings-page.php:489
+msgid "Category name"
+msgstr "Category name"
+
+#: includes/class-settings-page.php:542
+msgid "Remove Source"
+msgstr "Remove Source"
+
+#: includes/class-settings-page.php:552
+msgid "Add New Source"
+msgstr "Add New Source"
+
+#: includes/class-settings-page.php:553
+msgid "Source name"
+msgstr "Source name"
+
+#: includes/class-settings-page.php:555
+msgid "Source URL"
+msgstr "Source URL"
+
+#: opace-essential-seo-toolkit.php:218
+msgid "Open"
+msgstr "Open"
+
+#: opace-essential-seo-toolkit.php:219
+msgid "with"
+msgstr "with"
+
+#: opace-essential-seo-toolkit.php:238
+msgid ""
+"Some tools may require account creation in order to access the data. Others "
+"may require you to copy the URL into their tool."
+msgstr ""
+"Some tools may require account creation in order to access the data. Others "
+"may require you to copy the URL into their tool."

@@ -1,0 +1,220 @@
+2022-11-20T08:30:21+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 40e3279f2499157f28161add6c873313
+            [Date] => 20 Nov 2022 @ 8:30
+            [URL] => https://ecommerce.ie.live.gelato.tech/v1/woocommerce/webhooks/product/updated
+            [Duration] => 0.46001
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.0.0 Hookshot (WordPress/6.0.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://univers-berberes.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => QFJQmQMynRX91g1OR+GvCL0n5zBIy8ZRKv4UoUPUkHU=
+                            [X-WC-Webhook-ID] => 16
+                            [X-WC-Webhook-Delivery-ID] => 40e3279f2499157f28161add6c873313
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sun, 20 Nov 2022 08:30:21 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [cache-control] => no-cache, private
+                                    [request-id] => 8D654D3C:4B72_0A6420FE:01BB_6379E59D_15CC7A7:02A3
+                                    [x-server-id] => ecommerce-api-app-7684b9c555-wml54
+                                    [strict-transport-security] => max-age=15768000
+                                    [cf-cache-status] => DYNAMIC
+                                    [server] => cloudflare
+                                    [cf-ray] => 76cfd2b94d2d41d4-AMS
+                                    [content-encoding] => gzip
+                                    [alt-svc] => h3=":443"; ma=86400, h3-29=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2022-11-20T08:30:25+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 1ba44d3efe73b9eba025148b8d968e80
+            [Date] => 20 Nov 2022 @ 8:30
+            [URL] => https://app.obordesk.io/WooCommerceWebhook/WooProductCreateOrUpdate
+            [Duration] => 3.15021
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.0.0 Hookshot (WordPress/6.0.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://univers-berberes.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => LXuL2Qq9UUOteoYIx8e4Fv49dsCwsFLCY3ZhzP7yT0I=
+                            [X-WC-Webhook-ID] => 11
+                            [X-WC-Webhook-Delivery-ID] => 1ba44d3efe73b9eba025148b8d968e80
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [cache-control] => private
+                                    [server] => Microsoft-IIS/10.0
+                                    [set-cookie] => ASP.NET_SessionId=e22vdxpdosst5serfd0vu0cp; path=/; HttpOnly; SameSite=Lax
+                                    [x-aspnetmvc-version] => 4.0
+                                    [x-aspnet-version] => 4.0.30319
+                                    [date] => Sun, 20 Nov 2022 08:30:24 GMT
+                                    [content-length] => 0
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2022-11-20T08:30:29+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f701b4ef2eead8cee253bc53d8e407f6
+            [Date] => 20 Nov 2022 @ 8:30
+            [URL] => https://oborwebhook.sumool.net/WooCommerceWebhook/WooProductCreateOrUpdate
+            [Duration] => 3.79555
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.0.0 Hookshot (WordPress/6.0.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://univers-berberes.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => gxw8znxf5sCXbqQGO0SCaPokSgRXbe3sl+3KO9UqaQM=
+                            [X-WC-Webhook-ID] => 10
+                            [X-WC-Webhook-Delivery-ID] => f701b4ef2eead8cee253bc53d8e407f6
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [cache-control] => private
+                                    [server] => Microsoft-IIS/10.0
+                                    [set-cookie] => ASP.NET_SessionId=nd1m504zbslx5kwwlftq313r; path=/; HttpOnly; SameSite=Lax
+                                    [x-aspnetmvc-version] => 4.0
+                                    [x-aspnet-version] => 4.0.30319
+                                    [date] => Sun, 20 Nov 2022 08:30:29 GMT
+                                    [content-length] => 0
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2022-11-20T08:30:31+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 049fba69a0c58272fcaff2cd93643b50
+            [Date] => 20 Nov 2022 @ 8:30
+            [URL] => https://api.printful.com/hook/woocommerce?store=7963513
+            [Duration] => 0.71701
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.0.0 Hookshot (WordPress/6.0.3)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://univers-berberes.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => Loi6GtOvoTemeNnTVqW5zk1PWpqugtop9wWtjQO9t78=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 049fba69a0c58272fcaff2cd93643b50
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sun, 20 Nov 2022 08:30:31 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [vary] => Accept-Encoding
+                                    [cf-cache-status] => DYNAMIC
+                                    [set-cookie] => __cf_bm=sFrDOydf.yjv6UBAu2qhYi0.vCQEJ5C5UTrzzVLCpCs-1668933031-0-Ae8JueiqRkfIkvIRmSdp80MeGDGFE+khU532SiidG30skIul69KF8h8oJpXggmhiQwt6nL3hFkaV5KKVjVAMa3c=; path=/; expires=Sun, 20-Nov-22 09:00:31 GMT; domain=.printful.com; HttpOnly; Secure; SameSite=None
+                                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 76cfd2f2189c0a58-AMS
+                                    [content-encoding] => gzip
+                                    [alt-svc] => h3=":443"; ma=86400, h3-29=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+

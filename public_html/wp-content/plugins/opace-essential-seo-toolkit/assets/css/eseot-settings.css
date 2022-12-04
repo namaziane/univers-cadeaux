@@ -1,0 +1,58 @@
+.eseot-table th {
+  padding: 20px 10px;
+}
+.eseot-categories-wrapper {
+  width:100%;
+}
+
+.eseot-category-table tfoot td input.regular-text,
+.eseot-source-table tfoot td input.regular-text {
+  padding:3px 5px !important;
+}
+.eseot-category-table tfoot td label {
+  font-weight: 600;
+}
+
+.eseot-source-table tfoot td label {
+  font-weight:600;
+  display:block;
+  padding:0 10px 10px 10px;
+}
+.eseot-source-table tfoot td .submit {
+  margin-left: 10px;
+}
+.eseot-source-table tfoot td input.regular-text {
+  display:block;
+  margin-bottom:10px;
+}
+.eseot-source-table tfoot td input.regular-text.source-url {
+  width:90%;
+}
+.eseot-source-table tfoot td select {
+  margin-left:10px;
+}
+
+th.actions,
+td.actions {
+  max-width:10px;
+  width:10px;
+}
+
+th.cat-id,
+td.cat-id {
+  max-width:20px;
+  width:20px;
+}
+
+.actions a {
+  cursor: pointer;
+}
+
+.add-cat-wrap {
+  padding:20px;
+}
+
+
+.input-sourceurl {
+  width:100%;
+}

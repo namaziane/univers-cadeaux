@@ -1,0 +1,6 @@
+2022-11-11T00:13:18+00:00 INFO {"products":[{"id":4883,"quantity":1},{"id":4790,"quantity":1}],"destination":{"country":"BE","state":"","postcode":"","city":"","address":"","address_1":"","address_2":""},"currency":"EUR","lang":"fr_FR"}
+2022-11-11T00:13:18+00:00 INFO {"rates":[],"products":[]}
+2022-11-11T00:36:27+00:00 INFO {"products":[{"id":4790,"quantity":1}],"destination":{"country":"BE","state":"","postcode":"","city":"","address":"","address_1":"","address_2":""},"currency":"EUR","lang":"fr_FR"}
+2022-11-11T00:36:28+00:00 INFO {"rates":[],"products":[]}
+2022-11-11T12:24:04+00:00 INFO {"products":[{"id":1562,"quantity":1}],"destination":{"country":"BE","state":"","postcode":"","city":"","address":"","address_1":"","address_2":""},"currency":"EUR","lang":"fr_FR"}
+2022-11-11T12:24:04+00:00 INFO {"rates":[],"products":[]}

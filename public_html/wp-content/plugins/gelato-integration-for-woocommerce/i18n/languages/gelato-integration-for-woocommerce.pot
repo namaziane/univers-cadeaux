@@ -1,0 +1,223 @@
+# Copyright (C) 2021 Gelato
+# This file is distributed under the same license as the Gelato Integration for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gelato Integration for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/trunk\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-08-16T15:44:07+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: gelato-integration-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: templates/main.php:5
+#: templates/main.php:62
+msgid "Gelato Integration for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin helps to connect your WooCommerce store with Gelato."
+msgstr ""
+
+#. Author of the plugin
+msgid "Gelato"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://gelato.com"
+msgstr ""
+
+#: includes/GelatoMain.php:23
+msgid "Dashboard"
+msgstr ""
+
+#: includes/GelatoShipping.php:69
+msgid "Calculate shipping rates based on Gelato shipping costs."
+msgstr ""
+
+#: includes/GelatoShipping.php:91
+msgid "Gelato shipping method"
+msgstr ""
+
+#: includes/GelatoShipping.php:93
+#: includes/GelatoShipping.php:99
+msgid "Enable"
+msgstr ""
+
+#: includes/GelatoShipping.php:97
+msgid "Gelato live shipping rates"
+msgstr ""
+
+#: includes/GelatoShipping.php:103
+msgid "Woocommerce rates"
+msgstr ""
+
+#: includes/GelatoShipping.php:105
+msgid "Disable standard Woocommerce rates for products fulfilled by Gelato"
+msgstr ""
+
+#: includes/Pages/GelatoPage.php:17
+msgid "Home"
+msgstr ""
+
+#: includes/Pages/GelatoPage.php:22
+#: templates/status.php:27
+msgid "Status"
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:23
+msgid "WordPress Permalinks"
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:24
+msgid "Make sure that permalinks are NOT set to “plain” under Settings > Permalinks. Select any setting other than “Plain”."
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:32
+msgid "WooCommerce Webhooks"
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:33
+msgid "Gelato requires webhooks to be setup in WooCommerce to update store, products and orders."
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:41
+msgid "Gelato needs access to WooCommerce API. Please try reconnecting if the status is failed."
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:42
+msgid "For the integration to work, Gelato needs access to your WooCommerce API - otherwise, we can't keep your store updated with products. Please init connection if this test has failed."
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:47
+msgid "Check connection with Gelato."
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:48
+msgid "Verify that API connection between Gelato and WooCommerce site is accessible."
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:53
+msgid "Write permissions"
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:54
+msgid "Verify that you have sufficient access for Gelato to upload mockups. Please contact your website hosting provider if the status is failed."
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:59
+msgid "PHP memory limit"
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:60
+msgid "Verify that allocated memory for PHP is at least 128MB. Please contact your website hosting provider if the status is failed."
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:65
+msgid "PHP script time limit"
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:66
+msgid "Verify that PHP script execution time limit is set to at least 30 seconds. Please contact your website hosting provider if the status is failed."
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:71
+msgid "Check SSL"
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:72
+msgid "Verify that SSL is setup and working correctly."
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:80
+msgid "Check site redirection."
+msgstr ""
+
+#: includes/StatusChecker/GelatoStatusChecker.php:81
+msgid "If your site is configured with redirection to another URL, there might be some issues. Usually, this happens with incorrect HTTP to HTTPS redirects or yourdomain.com to www.yourdomain.com. Please check your settings."
+msgstr ""
+
+#: templates/main.php:16
+msgid "24/7 support anywhere, anytime"
+msgstr ""
+
+#: templates/main.php:17
+msgid "Our customer support team works relentlessly to help you scale your business and get the most out of the platform."
+msgstr ""
+
+#: templates/main.php:28
+msgid "Contact Support"
+msgstr ""
+
+#: templates/main.php:42
+msgid "Check out our Help Center"
+msgstr ""
+
+#: templates/main.php:43
+msgid "Are you experiencing technical issues? You will find answers to many questions and video tutorials."
+msgstr ""
+
+#: templates/main.php:54
+msgid "Go to Help Center"
+msgstr ""
+
+#: templates/main.php:63
+msgid "You're almost done"
+msgstr ""
+
+#: templates/main.php:64
+msgid "Just a few more steps to connect your WooCommerce store to Gelato"
+msgstr ""
+
+#: templates/main.php:65
+msgid "Connect to Gelato"
+msgstr ""
+
+#: templates/status.php:3
+msgid "Please copy the information below and send it to support. Thank you!"
+msgstr ""
+
+#: templates/status.php:6
+msgid "Copy"
+msgstr ""
+
+#: templates/status.php:25
+msgid "Name"
+msgstr ""
+
+#: templates/status.php:26
+msgid "Description"
+msgstr ""
+
+#: templates/status.php:39
+msgid "How to fix: "
+msgstr ""
+
+#: templates/status.php:50
+msgid "OK"
+msgstr ""
+
+#: templates/status.php:52
+msgid "WARNING"
+msgstr ""
+
+#: templates/status.php:54
+msgid "FAIL"
+msgstr ""
+
+#: templates/status.php:56
+msgid "SKIPPED"
+msgstr ""
+
+#: templates/status.php:68
+msgid "Reset plugin"
+msgstr ""

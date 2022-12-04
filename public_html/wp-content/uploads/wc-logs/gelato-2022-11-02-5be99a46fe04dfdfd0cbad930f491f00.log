@@ -1,0 +1,4 @@
+2022-11-02T03:13:12+00:00 INFO {"products":[{"id":2064,"quantity":11}],"destination":{"country":"FR","state":"Essonne","postcode":"91600","city":"savigny","address":"239 av robert leuthreau","address_1":"239 av robert leuthreau","address_2":""},"currency":"EUR","lang":"fr_FR"}
+2022-11-02T03:13:13+00:00 INFO {"rates":[],"products":[]}
+2022-11-02T03:13:23+00:00 INFO {"products":[{"id":2064,"quantity":11}],"destination":{"country":"FR","state":"","postcode":"91600","city":"savigny","address":"239 av robert leuthreau","address_1":"239 av robert leuthreau","address_2":""},"currency":"EUR","lang":"fr_FR"}
+2022-11-02T03:13:23+00:00 INFO {"rates":[],"products":[]}

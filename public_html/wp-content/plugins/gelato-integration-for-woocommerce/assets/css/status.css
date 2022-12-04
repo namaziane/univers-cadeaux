@@ -1,0 +1,39 @@
+.gelato-status-log-container {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+
+.gelato-status-log-container p {
+    margin-top: 0;
+}
+
+.gelato-status-log-container .gelato-status-log {
+    font-family: monospace;
+    width: 100%;
+    min-height: 100px;
+    box-sizing: border-box;
+}
+
+.gelato-status-check {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 4px;
+    margin-top: 4px;
+    margin-right: 10px;
+    background: #bbb;
+}
+
+.gelato-status-check-ok {
+    background: #52CB34;
+}
+
+.gelato-status-check-warning {
+    background: #dc9209;
+}
+
+.gelato-status-check-fail {
+    background: #952727;
+}

@@ -1,0 +1,4 @@
+2022-11-04T04:11:41+00:00 INFO {"products":[{"id":1586,"quantity":1}],"destination":{"country":"BE","state":"","postcode":"","city":"","address":"","address_1":"","address_2":""},"currency":"EUR","lang":"fr_FR"}
+2022-11-04T04:11:41+00:00 INFO {"rates":[],"products":[]}
+2022-11-04T15:37:57+00:00 INFO {"products":[{"id":2064,"quantity":11}],"destination":{"country":"FR","state":"","postcode":"91600","city":"savigny","address":"239 av robert leuthreau","address_1":"239 av robert leuthreau","address_2":""},"currency":"EUR","lang":"fr_FR"}
+2022-11-04T15:37:57+00:00 INFO {"rates":[],"products":[]}
